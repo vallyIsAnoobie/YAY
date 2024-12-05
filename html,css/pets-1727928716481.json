@@ -1,0 +1,14 @@
+[
+  {
+    "color": "green",
+    "type": "deno",
+    "size": "nano",
+    "name": "Deno"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "Bibo"
+  }
+]

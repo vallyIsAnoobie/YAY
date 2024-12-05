@@ -1,0 +1,45 @@
+body{
+    color:black;
+    text-align: center;
+    background-color: beige;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+p{
+    font-style: italic;
+    
+}
+
+h1{
+    color: pink;
+    font-family: 'Fascinate Inline', sans-serif;
+    font-size: 80px;
+}
+
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 20;
+    font-size: 40px;
+
+}
+.container{
+background-color: rgb(210, 233, 247);
+margin: 30px;
+padding: 20px;
+}
+
+.selected{
+color: pink;
+list-style-type: circle;
+
+}
+
+.selected1{
+    color: plum;
+    list-style-type: circle;
+
+}
